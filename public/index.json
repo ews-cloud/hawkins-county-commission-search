@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ex1",
+    "title": "Commission Agenda \u2013 Regular Session",
+    "date": "2025-06-24",
+    "year": 2025,
+    "type": "Agenda",
+    "meeting": "Regular Session",
+    "url": "https://www.hawkinscountyclerk.com/commission-information/",
+    "pdfUrl": null,
+    "body": "Discussion of county budget appropriations, road improvements, and solid waste resolution draft."
+  },
+  {
+    "id": "ex2",
+    "title": "Commission Minutes \u2013 Regular Session",
+    "date": "2025-06-24",
+    "year": 2025,
+    "type": "Minutes",
+    "meeting": "Regular Session",
+    "url": "https://www.hawkinscountyclerk.com/commission-information/",
+    "pdfUrl": null,
+    "body": "Minutes: roll call, quorum present, resolutions adopted regarding solid waste and school funding."
+  },
+  {
+    "id": "ex3",
+    "title": "Resolution 2025-07 \u2013 Solid Waste Contract",
+    "date": "2025-07-08",
+    "year": 2025,
+    "type": "Resolution",
+    "meeting": "Special Called",
+    "url": "https://www.hawkinscountyclerk.com/commission-information/",
+    "pdfUrl": null,
+    "body": "A resolution to authorize the county mayor to execute a contract related to solid waste services."
+  }
+]

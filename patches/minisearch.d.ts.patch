@@ -1,0 +1,14 @@
+*** /dev/null
+--- node_modules/minisearch/index.d.ts
+******************
+*** 1 ****
+--- 1,5 ----
++ // Quick patch to relax generics in strict TS builds if needed.
++ // Safe to ignore if upstream typings work in your environment.
+  declare module 'minisearch' {
+    export default class MiniSearch<T = any> {
+      constructor(options?: any)
+      addAll(docs: T[]): void
+      search(query: string, opts?: any): any[]
+    }
+  }
